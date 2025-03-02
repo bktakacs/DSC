@@ -1,3 +1,4 @@
+# I got an error when trying to publish the notebook from the databricks website so I downloaded the source file and uploaded it here.
 # Databricks notebook source
 # MAGIC %md
 # MAGIC ##Exercise Overview
